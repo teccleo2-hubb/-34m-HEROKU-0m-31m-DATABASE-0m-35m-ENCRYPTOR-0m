@@ -1,2 +1,3 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=25&pause=1000&width=435&lines=HEROKU+DATABASE+ENCRYPTOR+" alt="Typing SVG" /></a>
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=25&pause=1000&color=F70000&background=FF000000&width=435&lines=As+a+bot+deployer+you+must+Encrypt+your+bots+to+stay+active" alt="Typing SVG" /></a>
+j
